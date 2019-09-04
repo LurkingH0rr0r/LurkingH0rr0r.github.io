@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sample drawings in AutoCAD"
+title: "drawing samples"
 date: 2019-09-04
 ---
 
