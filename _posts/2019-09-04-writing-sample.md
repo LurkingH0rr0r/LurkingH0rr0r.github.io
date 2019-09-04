@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "writing sampels"
+title: "writing samples"
 date: 2019-09-04
 ---
 
