@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ships"
+title: "gallery of ships"
 date: 2019-09-04
 ---
 ###### *images owned by patrick shorey*
